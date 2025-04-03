@@ -41,4 +41,17 @@
     #formulario p {
         font-size: 1.2em;
     }
+
+    .campo {
+        display: block;
+        width: 46%;
+        padding: 40px;
+        margin: 15px 0px -10px 20px
+        
+    }
+
+    form > input[type=submit] {
+        display: block;
+        margin: left bottom;
+    } 
 }
